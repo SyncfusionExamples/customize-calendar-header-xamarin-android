@@ -25,9 +25,13 @@ namespace CalendarXamarinAndroid
 
             LinearLayout mainLayout = new LinearLayout(this);
             mainLayout.Orientation = Orientation.Vertical;
+            mainLayout.SetPadding(0, 30, 0, 0);
+            mainLayout.SetBackgroundColor(Color.White);
 
             headerTextView = new TextView(this);
             headerTextView.Typeface = Typeface.Create("Roboto-Medium", TypefaceStyle.Bold);
+            headerTextView.SetPadding(30, 0, 0, 30);
+            headerTextView.SetBackgroundColor(Color.White);
 
             sfCalendar = new SfCalendar(this);
             sfCalendar.HeaderHeight = 0;
