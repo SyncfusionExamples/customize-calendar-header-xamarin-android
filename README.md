@@ -1,6 +1,6 @@
-# maui-kanban-examples
+# Customize-calendar-header-xamarin-android
 
-This repository contains the samples that demonstrate the functionalities of [Xamarin Android (SfCalendar)](https://help.syncfusion.com/xamarin-android/sfcalendar/getting-started) control.
+This repository contains the sample that demonstrate the customization of calendar header in [Xamarin Android (SfCalendar)](https://help.syncfusion.com/xamarin-android/sfcalendar/getting-started) control.
 
 ## Syncfusion controls:
 
